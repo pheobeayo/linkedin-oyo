@@ -33,9 +33,6 @@ export default function Contact() {
         name="contact"
         onSubmit={handleSubmit}
         className="py-10 px-10 flex flex-col  bg-grey rounded-xl shadow-lg space-y-2 md:py-6  md:items-center md:space-y-0 md:space-x-8">
-        <h2 className="text-white md:text-6xl text-5xl mb-1 font-large title-font">
-          Hire Me
-        </h2>
         <p className="leading-relaxed mb-5">
           Any Inquiry?
           <br className="hidden lg:inline-block" />
